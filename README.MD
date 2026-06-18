@@ -67,3 +67,6 @@ Yordy Pacheco
 Universidad Francisco de Paula Santander Ocaña
 
 Examen Final - Arquitectura de Computadores
+
+## codigo
+0192498
