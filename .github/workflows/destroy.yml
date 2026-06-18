@@ -3,6 +3,9 @@ name: Destroy EC2
 on:
   workflow_dispatch:
 
+  # ==========================================
+  # EC2 destrou¿y
+  # ==========================================
 jobs:
   destroy:
     runs-on: ubuntu-latest
