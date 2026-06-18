@@ -260,7 +260,7 @@ Resources:
             <div class="card">
 
               <div class="badge">
-                🚀 AWS CLOUD DEPLOY
+                🚀 AWS CLOUD Examen
               </div>
 
               <h1>
@@ -320,6 +320,11 @@ Resources:
           🔥 GitHub Actions funcionando
 
           EOF
+          
+          
+  # ==========================================
+  # hola profe si esta viendo esto 
+  # ==========================================
 
       Tags:
         - Key: Name
