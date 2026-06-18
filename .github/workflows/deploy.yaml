@@ -9,6 +9,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+  # ==========================================
+  # EC2 deploy
+  # ==========================================
     steps:
 
       - name: Checkout repository
